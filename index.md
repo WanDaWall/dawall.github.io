@@ -1,6 +1,6 @@
 # 什么是 Re-ID (行人重识别)？
 
-![Re-ID 示意图]([https://your-image-url-here.png](https://github.com/WanDaWall/dawall-images/blob/main/hchique.jpg))
+![Re-ID 示意图](https://github.com/WanDaWall/dawall-images/blob/main/hchique.jpg?raw=true)
 *你可以替换为一个能直观展示 Re-ID 概念的图片*
 
 ## 简介
