@@ -43,4 +43,4 @@ Re-ID 技术仍然面临很多挑战，例如：
 如果你对计算机视觉和 Re-ID 技术感兴趣，可以查阅以下资源：
 
 * [行人重识别综述](https://arxiv.org/abs/2001.04193)（优秀学术论文）
-* [Awesome Person Re-Identification]([https://github.com/guan-aj/awesome-re-id](https://github.com/bismex/Awesome-person-re-identification))（一个收集了大量 Re-ID 论文和代码的 GitHub 仓库）
+* [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification)（一个收集了大量 Re-ID 论文和代码的 GitHub 仓库）
